@@ -1,0 +1,11 @@
+	Meeting 1:   
+Name: Meeting with bff
+Description: Talking about something important
+Start date: 17:30-21/10/2020
+End date: 19:30-21/10/2020
+
+	Meeting 2:   
+Name: Meeting with my mum
+Description: Lunch somewhere
+Start date: 12:30-22/10/2020
+End date: 13:30-22/10/2020
