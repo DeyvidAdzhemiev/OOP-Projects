@@ -1,0 +1,9 @@
+	Movie 1:
+Name: Taken 3
+Date: 3/7/2020
+Sold tickets: 56
+
+	Movie 2: 
+Name: A Star is Born
+Date: 4/7/2020
+Sold tickets: 37

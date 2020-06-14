@@ -1,0 +1,9 @@
+	Movie 1:
+Name: Fast & Furious 9
+Date: 2/7/2020
+Sold tickets: 20
+
+	Movie 2: 
+Name: The Wolf of Wall Street
+Date: 3/7/2020
+Sold tickets: 45

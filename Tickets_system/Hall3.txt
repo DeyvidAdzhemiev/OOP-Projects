@@ -1,0 +1,9 @@
+	Movie 1:
+Name: Star Wars: The Last Jedi
+Date: 4/7/2020
+Sold tickets: 29
+
+	Movie 2: 
+Name: Mission: Impossible - Fallout
+Date: 5/7/2020
+Sold tickets: 53
